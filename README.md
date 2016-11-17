@@ -6,12 +6,6 @@ Design a mobile-first app for those times when you're trapped in a bad conversat
 ## Screenshots
 ![screenshots](/public/screenshots.jpg "screenshots")
 
-## Team
-* [Armon Arcuri](https://github.com/armoney) - armonsf@gmail.com
-* [Daniel Suchy](https://github.com/danielsoner)
-* [Sarah Sucha](https://github.com/sarahsucha) - sarahsucha@gmail.com 
-* [Shawn Tuttle](https://github.com/ShawnTe) - hello@shawntuttle.com
-
 ## Where We're At
 * >>> Make it work
 * Make it nice
@@ -27,3 +21,13 @@ Design a mobile-first app for those times when you're trapped in a bad conversat
 * Node.js
 * Twillio api
 
+## My Role
+Frontend Javascript and Conceptualize UX
+
+## Team
+* [Armon Arcuri](https://github.com/armoney) - armonsf@gmail.com
+* [Daniel Suchy](https://github.com/danielsoner)
+* [Sarah Sucha](https://github.com/sarahsucha) - sarahsucha@gmail.com 
+* [Shawn Tuttle](https://github.com/ShawnTe) - hello@shawntuttle.com
+
+Check out our featured story on the TechCrunch blog which also has a link to our 1 min presentation skit: [Tech Crunch Disrupt hackathon](https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/)
