@@ -1,7 +1,7 @@
-#Phoney.club - Tech Crunch SF
+#Phoney.club
 
 ## Purpose
-Design a mobile-first app for those times when you're trapped in a bad conversation and need a smooth excuse to escape.
+Design a mobile-first app for those times when you're trapped in a bad conversation and need a smooth excuse to escape. Created for the Tech Crunch Disrupt SF 2016 Hackathon.
 
 ## Screenshots
 ![screenshots](/public/screenshots.jpg "screenshots")
@@ -30,4 +30,4 @@ Frontend Javascript and Conceptualize UX
 * [Sarah Sucha](https://github.com/sarahsucha) - sarahsucha@gmail.com 
 * [Shawn Tuttle](https://github.com/ShawnTe) - hello@shawntuttle.com
 
-Check out our featured story on the TechCrunch blog which also has a link to our 1 min presentation skit: [Tech Crunch Disrupt hackathon](https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/)
+Check out our featured story on the [TechCrunch blog](https://techcrunch.com/2016/09/11/phoney-club-gets-you-out-of-uncomfortable-conversations/) which also has a link to our 1 min presentation skit.
